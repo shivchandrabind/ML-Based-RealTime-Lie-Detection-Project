@@ -49,7 +49,7 @@ It combines **deep learning, voice stress analysis, and computer vision** to cla
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/<shivchandrabind>/LieDetectionProject.git
+git clone https://github.com/shivchandrabind/LieDetectionProject.git
 cd LieDetectionProject
 -->Then Move to Correct Location where realtime_lie_detector.py file is save (i.e. in scripts folder)
  In Terminal Type:
