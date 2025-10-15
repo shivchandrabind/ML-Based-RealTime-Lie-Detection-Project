@@ -49,7 +49,7 @@ It combines **deep learning, voice stress analysis, and computer vision** to cla
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/shivchandrabind/LieDetectionProject.git
+git clone https://github.com/shivchandrabind/ML-Based-RealTime-Lie-Detection-Project.git
 cd LieDetectionProject
 -->Then Move to Correct Location where realtime_lie_detector.py file is save (i.e. in scripts folder)
  In Terminal Type:
@@ -161,7 +161,7 @@ If you use this project in your work:
   author = {Shiv Chandra Bind},
   title = {Real-Time Lie Detection System: AI-based Multimodal Deception Analysis},
   year = {2025},
-  howpublished = {\url{https://github.com/shivchandrabind/LieDetectionProject}}
+  howpublished = {\url{https://github.com/shivchandrabind/ML-Based-RealTime-Lie-Detection-Project}}
 }
 
 🖼️ Demo Preview (Optional)
