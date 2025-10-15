@@ -51,14 +51,15 @@ It combines **deep learning, voice stress analysis, and computer vision** to cla
 
 git clone https://github.com/shivchandrabind/ML-Based-RealTime-Lie-Detection-Project.git
 cd LieDetectionProject
--->Then Move to Correct Location where realtime_lie_detector.py file is save (i.e. in scripts folder)
- In Terminal Type:
- cd scripts
 
 2️⃣ Create & Activate Virtual Environment
 python -m venv venv
 venv\Scripts\activate          # For Windows
 source venv/bin/activate       # For macOS/Linux
+
+--> Then Move to Correct Location where realtime_lie_detector.py file is save (i.e. in scripts folder)
+ In Terminal Type:
+ cd scripts
 
 3️⃣ Install Required Dependencies
 pip install -r requirements.txt
